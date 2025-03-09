@@ -1,0 +1,17 @@
+pytest
+python-dotenv
+requests
+langchain-community
+langchain
+ollama
+pandas
+langchain-ollama
+faiss-cpu
+pymupdf
+beautifulsoup4
+python-dotenv
+langchain_ollama
+language_tool_python
+yfinance
+
+
